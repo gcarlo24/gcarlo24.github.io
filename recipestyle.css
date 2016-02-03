@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+body{
+  font-family: "Poiret One", sans-serif;
+  font-size: 16px;
+  background-color:#fff0f5
+}
+
+h1{
+  font-family:Shadows Into Light, sans-serif;
+  color:#4b0082
+}
+
+h2{
+  font-weight: bold;
+  font-family: "Shadows Into Light", sans-serif;
+  color:#4b0082
+}
+
+h3{
+  font-weight:bold;
+  font-family: "Shadows Into Light", sans-serif;
+  color:#4b0082
+}

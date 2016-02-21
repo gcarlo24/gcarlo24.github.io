@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 
 body{
@@ -8,18 +8,42 @@ body{
 }
 
 h1{
-  font-family:Shadows Into Light, sans-serif;
+  font-family:Pacifico, sans-serif;
   color:#4b0082
 }
 
 h2{
   font-weight: bold;
-  font-family: "Shadows Into Light", sans-serif;
+  font-family: "Pacifico", sans-serif;
   color:#4b0082
 }
 
 h3{
   font-weight:bold;
-  font-family: "Shadows Into Light", sans-serif;
+  font-family: "Pacifico", sans-serif;
   color:#4b0082
+}
+
+#div1{
+  width:46%;
+  float:left;
+  border: 10px solid;
+  border-color:#4b0082;
+  padding:10px;
+  text-align: justify;
+}
+
+#div2{
+  width:46%;
+  float:right;
+  border:10px solid;
+  border-color:#4b0082;
+  padding:10px;
+  text-align: justify;
+}
+
+#wrapper{
+  width:100%;
+  margin:auto;
+  float:left;
 }

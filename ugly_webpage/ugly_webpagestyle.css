@@ -11,15 +11,18 @@ h1{
   background-color:blue;
   color:#FFD801;
   font-weight:200;
+  letter-spacing: 4px;
+  position:relative;
 }
 
 h2{
   font-family: "Passion One", sans-serif;
+  text-decoration: underline;
 }
 
 #div1{
   width:50%;
-  float:left;
+  float:center;
   border: 10px solid;
   border-color:blue;
   padding:10px;
@@ -31,7 +34,7 @@ h2{
 
 #div2{
   width:50%;
-  float:left;
+  float:center;
   border:10px solid;
   border-color:blue;
   padding:10px;
@@ -43,19 +46,20 @@ h2{
 
 #div3{
   width:50%;
-  float:left;
+  float:center;
   border:10px solid;
   border-color:blue;
   padding:10px;
   text-align:right;
   background-color: yellow;
   margin:auto;
+  font-style:italic;
 }
 
 #div4{
-  float:left;
+  float:center;
   width:50%;
-  border:10px dashed;
+  border:10px solid;
   border-color:blue;
   padding:10px;
   font-family:Open Sans, sans-serif;
@@ -72,13 +76,14 @@ h4{
 h5{
   font-size:32px;
   font-family:monospace;
+  text-decoration: underline;
 }
 
 #div5{
   width:50%;
   background-color: purple;
-  float:left;
-  border:10px solid;
+  float:center;
+  border:10px dashed;
   border-color:blue;
   padding:10px;
   font-family: source code pro, sans-serif;
@@ -88,4 +93,21 @@ h5{
 
 body{
   background-color: #25383C;
+}
+
+img{
+  float:left;
+  width:20%;
+}
+
+footer{
+  text-align:center;
+  font-family:monospace;
+  font-weight:bolder;
+  font-size:14px;
+  background-color:yellow;
+}
+
+p{
+  word-spacing: 10px;
 }

@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+h1{
+  font-style: italic;
+  font-family: "Orbitron", sans-serif;
+  background-color:blue;
+  color:#FFD801;
+  font-weight:200;
+}
+
+h2{
+  font-family: "Passion One", sans-serif;
+}
+
+#div1{
+  width:50%;
+  float:left;
+  border: 10px solid;
+  border-color:blue;
+  padding:10px;
+  text-align: left;
+  font-family: Open Sans, sans-serif;
+  background-color:red;
+  margin:auto;
+}
+
+#div2{
+  width:50%;
+  float:left;
+  border:10px solid;
+  border-color:blue;
+  padding:10px;
+  text-align:right;
+  font-family:cursive;
+  background-color: orange;
+  margin:auto;
+}
+
+#div3{
+  width:50%;
+  float:left;
+  border:10px solid;
+  border-color:blue;
+  padding:10px;
+  text-align:right;
+  background-color: yellow;
+  margin:auto;
+}
+
+#div4{
+  float:left;
+  width:50%;
+  border:10px dashed;
+  border-color:blue;
+  padding:10px;
+  font-family:Open Sans, sans-serif;
+  background-color: green;
+  margin:auto;
+}
+
+h4{
+  font-size: 16px;
+  font-family:"Satisfy";
+  font-style: italic;
+}
+
+h5{
+  font-size:32px;
+  font-family:monospace;
+}
+
+#div5{
+  width:50%;
+  background-color: purple;
+  float:left;
+  border:10px solid;
+  border-color:blue;
+  padding:10px;
+  font-family: source code pro, sans-serif;
+  margin:auto;
+  text-align:center;
+}
+
+body{
+  background-color: #25383C;
+}

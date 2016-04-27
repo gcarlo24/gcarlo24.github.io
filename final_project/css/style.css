@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+@import url(https://fonts.googleapis.com/css?family=Coming+Soon);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Give+You+Glory);
+@import url(https://fonts.googleapis.com/css?family=Alice);
+
+h1{
+  text-align:center;
+  font-size: 70px;
+  padding: 20px;
+  font-family:Walter Turncoat;
+  background-color:#AA3939;
+  color:#550000;
+}
+
+p{
+  text-align: center;
+  font-size:40px;
+  font-family:Alice;
+  color:#550000;
+  padding:5px;
+}
+
+div{
+  font-family:Alice;
+  font-size:25px;
+}

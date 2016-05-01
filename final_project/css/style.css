@@ -3,25 +3,33 @@
 @import url(https://fonts.googleapis.com/css?family=Rock+Salt);
 @import url(https://fonts.googleapis.com/css?family=Give+You+Glory);
 @import url(https://fonts.googleapis.com/css?family=Alice);
+@import url(https://fonts.googleapis.com/css?family=Gilda+Display);
 
 h1{
   text-align:center;
-  font-size: 70px;
+  font-size: 85px;
   padding: 20px;
   font-family:Walter Turncoat;
   background-color:#AA3939;
   color:#550000;
+  margin:10px;
 }
 
 p{
   text-align: center;
-  font-size:40px;
-  font-family:Alice;
+  font-size:100px;
+  font-family:Gilda Display;
   color:#550000;
   padding:5px;
 }
 
 div{
-  font-family:Alice;
-  font-size:25px;
+  font-family:Gilda Display;
+  font-size:30px;
+  float:right;
+  color:#504E4E;
+}
+
+img{
+  float:left;
 }

@@ -24,13 +24,12 @@ div{
 body{
   margin:10px;
   padding:20px;
-  background-color:#B1AFAD;
+  background-color:white;
 }
 
 img{
-  padding:10px;
   display:inline-block;
-  text-align:center;
+  text-align:left;
 }
 
 #div2{
@@ -51,6 +50,7 @@ h2{
 a{
   font-family:"Slabo 27px";
   color:#550000;
+  font-size:23px;
 }
 
 h4{
@@ -62,8 +62,8 @@ h4{
 }
 
 .glyphicon{
-  font-size:50px;
-  padding: 5px;
+  font-size:20px;
+  padding:5px;
 }
 
 #div5{
@@ -76,4 +76,39 @@ h4{
 
 #div3{
   text-align:center;
+}
+
+button{
+  padding:20px;
+}
+
+#div4{
+  padding:20px;
+}
+
+h3{
+  font-size:25px;
+  font-family:"Slabo 27px";
+  color:#550000;
+  text-align:center;
+}
+
+p{
+    float:right;
+    text-align: justify;
+    font-size:20px;
+}
+
+#navLinks{
+  padding:20px;
+  text-align:center;
+  background-color:#B1AFAD;
+}
+
+#div7{
+  padding:10px;
+}
+
+#div8{
+  padding:10px;
 }

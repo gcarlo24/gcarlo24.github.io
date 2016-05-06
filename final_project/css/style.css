@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Give+You+Glory);
 @import url(https://fonts.googleapis.com/css?family=Alice);
 @import url(https://fonts.googleapis.com/css?family=Gilda+Display);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 h1{
   text-align:center;
@@ -12,25 +13,67 @@ h1{
   font-family:Walter Turncoat;
   background-color:#AA3939;
   color:#550000;
-  margin:10px;
-}
-
-p{
-  text-align: center;
-  font-size:50px;
-  font-family:Gilda Display;
-  color:#550000;
-  padding:5px;
 }
 
 div{
-  font-family:Gilda Display;
+  font-family:"Slabo 27px";
   font-size:25px;
-  float:right;
   color:#504E4E;
 }
 
+body{
+  margin:10px;
+  padding:20px;
+  background-color:#B1AFAD;
+}
+
 img{
-  float:left;
   padding:10px;
+  display:inline-block;
+  text-align:center;
+}
+
+#div2{
+  float:right;
+  margin:10px;
+}
+
+#div1{
+  float: left;
+  font-size: 18px;
+}
+
+h2{
+  text-align: left;
+  font-family: "Slabo 27px";
+}
+
+a{
+  font-family:"Slabo 27px";
+  color:#550000;
+}
+
+h4{
+  text-align: center;
+  font-size:30px;
+  font-family:"Slabo 27px";
+  color:#550000;
+  padding:20px;
+}
+
+.glyphicon{
+  font-size:50px;
+  padding: 5px;
+}
+
+#div5{
+  float:left;
+}
+
+#div6{
+  float:right;
+}
+
+#div3{
+  text-align:center;
 }

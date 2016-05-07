@@ -94,7 +94,6 @@ h3{
 }
 
 p{
-    float:right;
     text-align: justify;
     font-size:20px;
 }
@@ -111,4 +110,8 @@ p{
 
 #div8{
   padding:10px;
+}
+
+ul{
+  padding:20px;
 }
